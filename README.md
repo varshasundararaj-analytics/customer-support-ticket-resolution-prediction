@@ -328,22 +328,13 @@ Potential future improvements include:
 
 ---
 
-## 👩‍💻 My Contribution
+## 👩‍💻 Project Contribution
 
-This was completed as a **group academic project**.
+This project was submitted as a **group academic project** for the Applied Statistics and Machine Learning module.
 
-My individual contribution focused primarily on:
+My hands-on work across the project included data preparation, feature engineering, regression modelling, Support Vector Regression (SVR), hyperparameter tuning using GridSearchCV, model evaluation, prediction, and preparation of the project documentation.
 
-- Building the Support Vector Regression model
-- Evaluating SVR performance
-- Performing hyperparameter tuning using GridSearchCV
-- Selecting and evaluating the tuned SVR configuration
-- Completing the prediction section
-- Contributing to the overall report structure
-- Contributing to the model evaluation discussion
-
-This work provided practical experience in **regression modelling, model optimisation, cross-validation, prediction, and interpretation of machine-learning results**.
-
+The repository presents the complete analytical workflow developed for the project, from raw customer-support ticket data through preprocessing, modelling, optimisation and prediction.
 ---
 
 ## 📁 Repository Structure
