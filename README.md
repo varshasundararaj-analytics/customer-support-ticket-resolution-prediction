@@ -62,7 +62,7 @@ This represents the estimated number of hours required to resolve a customer sup
 
 ### Dataset Preview
 
-![Dataset Overview](./screenshots/01-dataset-overview.png)
+![Dataset Overview](./screenshots/01-dataset_overview.png)
 
 ---
 
@@ -118,7 +118,7 @@ Additional features were extracted from date/time information:
 
 The `Resolution Hours` target variable was also created during this stage.
 
-![Data Preprocessing](./screenshots/02-data-preprocessing.png)
+![Data Preprocessing](./screenshots/02-data_preprocessing.png)
 
 ---
 
@@ -174,7 +174,7 @@ or:
 
 This indicates that the Linear Regression model explained approximately 49.2% of the variation in ticket resolution time within the analysis.
 
-![Linear Regression Results](./screenshots/03-linear-regression-results.png)
+![Linear Regression Results](./screenshots/03-linear_regression_results.png)
 
 ---
 
@@ -196,7 +196,7 @@ The basic SVR model achieved:
 R² = 51.35%
 ```
 
-![SVR Results](./screenshots/04-svr-results.png)
+![SVR Results](./screenshots/04-svr_results.png)
 
 The result improved on the Linear Regression baseline.
 
@@ -228,7 +228,7 @@ C       = 10
 Epsilon = 0.1
 ```
 
-![GridSearchCV Best Parameters](./screenshots/05-gridsearch-best-parameters.png)
+![GridSearchCV Best Parameters](./screenshots/05-gridsearch_best_parameters.png)
 
 GridSearchCV allowed multiple SVR configurations to be evaluated systematically using cross-validation.
 
@@ -260,7 +260,7 @@ The reported sample predictions were approximately:
 | Basic SVR | 5.95 hours |
 | Tuned SVR | 6.15 hours |
 
-![Model Predictions](./screenshots/06-model-predictions.png)
+![Model Predictions](./screenshots/06-model_predictions.png)
 
 These predictions demonstrate how the regression workflow can be used to estimate ticket resolution time for a sample input.
 
@@ -406,8 +406,9 @@ Dublin Business School, Ireland
 Former Product Support Technical Advisor – IQVIA  
 Aspiring Data Analyst | Business Analyst
 
-🔗 [LinkedIn](https://www.linkedin.com/in/varsha-sundararaj-40a463201)  
-🔗 [GitHub](https://github.com/varshasundararaj-analytics)
+🔗 - 💼 **LinkedIn:** [Varsha Sundararaj](https://www.linkedin.com/in/varsha-sundararaj-40a463201)
+
+🔗 - 💻 **GitHub:** [varshasundararaj-analytics](https://github.com/varshasundararaj-analytics)
 
 ---
 
